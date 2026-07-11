@@ -1,0 +1,3 @@
+# Disables markdown line limit linting
+config:
+  MD013: false
